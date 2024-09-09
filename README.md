@@ -48,9 +48,6 @@ The experiments documented in this repository are designed to fulfill several ke
 - **Visualize the Results**: Check the "images" folder within each experiment directory for visual representations of the data. These graphs are designed to help users quickly understand the results and identify trends.
 - **Run the Code**: Explore the "Code" folder to view or execute the original scripts used to carry out the experiments. This is essential for reproducibility and further experimentation.
  
-## License
- 
-This repository is licensed under the MIT License. You are free to use, modify, and distribute the contents of this repository, provided that proper attribution is given. For more details, see the [LICENSE](./LICENSE) file.
  
 ## Disclaimer
  
